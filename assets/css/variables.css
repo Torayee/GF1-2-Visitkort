@@ -1,11 +1,13 @@
 :root{
-    --base-color: #16425c;
-    --accent-color: #501031;
-    --light-color: #ece4d6;
+    --base-color: #003652;
+    --accent-color: #250902;
+    --light-color: #e7d7c1;
+
+    
 
 
     --base-font:  Verdana, Geneva, Tahoma, sans-serif;
-    --accent-font: 'Playfair Display', serif;
+    --accent-font:'Roboto Slab', serif;
 
    
 }
