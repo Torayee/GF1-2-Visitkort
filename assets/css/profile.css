@@ -1,8 +1,11 @@
 .round-img{
-    width: 40h;
-    height: 40h;
+    width: 40;
+    height: 40;
 
     border-radius: 100%;
+    border: thick double var(--white-color);
+   
 
     object-fit: cover;
 }
+

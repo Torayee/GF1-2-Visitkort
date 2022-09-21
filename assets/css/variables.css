@@ -2,12 +2,13 @@
     --base-color: #003652;
     --accent-color: #250902;
     --light-color: #e7d7c1;
+    --white-color: #fff;
 
     
 
 
-    --base-font:  Verdana, Geneva, Tahoma, sans-serif;
-    --accent-font:'Roboto Slab', serif;
+    --base-font:  'Noto Sans Thai', sans-serif;
+    --accent-font:'Tiro Telugu', serif;
 
    
 }

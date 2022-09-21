@@ -8,6 +8,8 @@ nav{
     align-items: center;
 
     gap: 1em;
+
+    background-color: var(--white-color);
 }
 
 nav label{
@@ -21,9 +23,9 @@ nav input[type="checkbox"]{
 nav ul{
     display: none;
 
-    font-size: 1,2em;
+    font-size: 1em;
 
-    gap: 1em;
+    gap: 2em;
 
 }
 nav input[type="checkbox"]:checked ~ ul{
