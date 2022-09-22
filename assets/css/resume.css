@@ -8,8 +8,12 @@
     align-items: flex-start;
     justify-content: space-evenly;
 
-    background-color: var(--resume-color);
-    opacity: 50%;
+    background-color: var(--opacity-color);
+
+    border-radius: 30px;
+
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
+    
 }
 
 .experience{
