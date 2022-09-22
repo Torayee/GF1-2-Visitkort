@@ -9,6 +9,7 @@
     justify-content: space-evenly;
 
     background-color: var(--resume-color);
+    opacity: 50%;
 }
 
 .experience{
