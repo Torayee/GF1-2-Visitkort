@@ -9,6 +9,8 @@ nav{
 
     gap: 1em;
 
+    padding: 0.5rem;
+
     background-color: var(--opacity-color);
     border-radius: 30px;
     border: 2px solid var(--opacity-color);
@@ -22,6 +24,7 @@ nav label{
 
 nav input[type="checkbox"]{
     display: none;
+    
 }
 
 nav ul{
@@ -34,5 +37,6 @@ nav ul{
 }
 nav input[type="checkbox"]:checked ~ ul{
     display: flex;
+    
 }
 
