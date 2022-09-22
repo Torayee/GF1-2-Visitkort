@@ -13,7 +13,7 @@ nav{
     border-radius: 30px;
     border: 2px solid var(--opacity-color);
     
-    box-shadow: 12px 12px 2px 1px rgba(184, 152, 131, 0.2);
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
 }
 
 nav label{

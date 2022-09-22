@@ -31,8 +31,7 @@ main, header, footer, section{
 
 .img-small img{
     width: 100%;
-    box-shadow: 12px 12px 2px 1px rgba(184, 152, 131, 0.2);
-}
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
 
 .img-wide{
     
@@ -42,8 +41,7 @@ main, header, footer, section{
     object-fit: cover;
     overflow: hidden;
 
-    box-shadow: 12px 12px 2px 1px rgba(184, 152, 131, 0.2);
-
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
 }
 /* img-wide is made for the cookie cutter picture- it aren't working yet, but the best for now */
 
@@ -58,7 +56,7 @@ main, header, footer, section{
 
 .img-paint img{
     width: 100%;
-    box-shadow: 12px 12px 2px 1px rgba(184, 152, 131, 0.2);
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
 }
 /* The img sizes didn't fit the MS paint pictures- so made a new one to make it fit */
 
