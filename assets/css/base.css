@@ -17,6 +17,8 @@ h1{
     color: var(--accent-color);
     font-family: var(--accent-font);
     font-size: 4em;
+    text-shadow: 15%;
+    
 }
 
 h2{

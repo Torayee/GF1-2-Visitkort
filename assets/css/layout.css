@@ -8,6 +8,7 @@ main, header, footer, section{
     justify-content: space-evenly;
 
     gap: 1em;
+    
 }
 
 .width-full{
