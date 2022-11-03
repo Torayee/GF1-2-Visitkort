@@ -63,5 +63,13 @@ main, header, footer, section{
 /* The img sizes didn't fit the MS paint pictures- so made a new one to make it fit */
 
 
+.video-wide{
+    max-width: 60%;
+    height: auto;
+
+    object-fit: cover;
+}
+
+
 
 
